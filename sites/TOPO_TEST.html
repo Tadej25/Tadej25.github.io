@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+<!--qv q:id=0 q:key=3sccYCDd1Z0:-->
+<!--qv q:id=1 q:key=z1nvHyEppoI:-->
+<!--qv q:s q:sref=1 q:key=-->
+
 <head>
   <meta charSet="utf-8" q:head>
   <title q:head>TOPO vprašanja</title>
@@ -19,10 +23,10 @@
 <body lang="en">
   <div class="h-100 d-flex align-items-center justify-content-center">
     
-    <div class="card" style="width: 70%; max-width: 500px;">
+    <div class="card" style="width: 95%;">
       <img id="ID_img" class="card-img-top" src="..." alt="Card image cap">
       <div class="card-body">
-        <h1 class="card-title">Kateri topografski znak je to?</h1>
+        <label class="card-title" style="font-size: 80px; font-weight: bold;">Kateri topografski znak je to?</label>
         <div id="addHere">
 
         </div>
@@ -96,7 +100,7 @@
       for (let i = 0; i < 4; i++) {
         var tempID = dict[i].key;
         var tempValue = dict[i].value;
-        node.insertAdjacentHTML('afterend', '<div id="div_' + tempID + '" class="form-check"><input class="form-check-input" type="radio" name="flexRadioDefault" id="' + tempID + '" onchange="getRating(this)"><h3 id="label_' + tempID + '" class="form-check-label" for="' + tempID + '">' + tempValue + '</h3></div>');
+        node.insertAdjacentHTML('afterend', '<div id="div_' + tempID + '" class="form-check"><input class="form-check-input" type="radio" name="flexRadioDefault" id="' + tempID + '" onchange="getRating(this)" style="transform: scale(2.5);margin-top:2%;margin-right:1%;"><label id="label_' + tempID + '" class="form-check-label" for="' + tempID + '" style="font-size: 50px;">' + tempValue + '</label></div>');
 
         if(dict[i].value == json[rand].nazivZnaka){
           winID = dict[i].key
