@@ -1,0 +1,926 @@
+[
+  {
+    "fileName": "img1_2.png",
+    "nazivZnaka": "Zgradba"
+  },
+  {
+    "fileName": "img1_3.png",
+    "nazivZnaka": "Stolpnica"
+  },
+  {
+    "fileName": "img1_4.png",
+    "nazivZnaka": "Šola/bolnišnica/planinski dom"
+  },
+  {
+    "fileName": "img1_5.png",
+    "nazivZnaka": "Ruševina, zapuščena zgradba"
+  },
+  {
+    "fileName": "img1_6.png",
+    "nazivZnaka": "Nadstrešnica, baraka"
+  },
+  {
+    "fileName": "img1_7.png",
+    "nazivZnaka": "Stan, koliba, planina"
+  },
+  {
+    "fileName": "img1_8.png",
+    "nazivZnaka": "Cerkev z enim zvonikom"
+  },
+  {
+    "fileName": "img1_9.png",
+    "nazivZnaka": "Cerkev z dvema ali več zvoniki"
+  },
+  {
+    "fileName": "img1_10.png",
+    "nazivZnaka": "Samostan"
+  },
+  {
+    "fileName": "img1_11.png",
+    "nazivZnaka": "Kapela"
+  },
+  {
+    "fileName": "img1_12.png",
+    "nazivZnaka": "Grad"
+  },
+  {
+    "fileName": "img1_13.png",
+    "nazivZnaka": "Pokopališče"
+  },
+  {
+    "fileName": "img1_14.png",
+    "nazivZnaka": "Spominsko pokopališče"
+  },
+  {
+    "fileName": "img1_15.png",
+    "nazivZnaka": "Stadion ali športno igrišče"
+  },
+  {
+    "fileName": "img1_16.png",
+    "nazivZnaka": "Trdnjava"
+  },
+  {
+    "fileName": "img1_17.png",
+    "nazivZnaka": "Razvalina"
+  },
+  {
+    "fileName": "img1_18.png",
+    "nazivZnaka": "Antentski stolp radijske, TV ali relejne postaje"
+  },
+  {
+    "fileName": "img1_19.png",
+    "nazivZnaka": "Meteorološka postaja"
+  },
+  {
+    "fileName": "img1_20.png",
+    "nazivZnaka": "Razgledni stolp"
+  },
+  {
+    "fileName": "img1_21.png",
+    "nazivZnaka": "Stolp za ostale namene"
+  },
+  {
+    "fileName": "img1_22.png",
+    "nazivZnaka": "Mlin na veter"
+  },
+  {
+    "fileName": "img1_23.png",
+    "nazivZnaka": "Spomenik"
+  },
+  {
+    "fileName": "img1_24.png",
+    "nazivZnaka": "Spominska plošča"
+  },
+  {
+    "fileName": "img1_25.png",
+    "nazivZnaka": "Versko zanmenje"
+  },
+  {
+    "fileName": "img1_26.png",
+    "nazivZnaka": "Osamljen grob"
+  },
+  {
+    "fileName": "img1_27.png",
+    "nazivZnaka": "Kozolec"
+  },
+  {
+    "fileName": "img1_28.png",
+    "nazivZnaka": "Strnjene zgradbe - mestni kare"
+  },
+  {
+    "fileName": "img1_29.png",
+    "nazivZnaka": "Skupina zgradb"
+  },
+  {
+    "fileName": "img1_30.png",
+    "nazivZnaka": "Vrsta zgradb"
+  },
+  {
+    "fileName": "img1_31.png",
+    "nazivZnaka": "Tovarna, opekarna (z ali brez dimnika)"
+  },
+  {
+    "fileName": "img1_32.png",
+    "nazivZnaka": "Rafinerija ali druga tovarniška zgradba"
+  },
+  {
+    "fileName": "img1_33.png",
+    "nazivZnaka": "Tovarniška dvorana, skladišče, hangar (lopa) za letala"
+  },
+  {
+    "fileName": "img1_34.png",
+    "nazivZnaka": "Termoelektrarna ali jedrska elektrarna"
+  },
+  {
+    "fileName": "img1_35.png",
+    "nazivZnaka": "Hidroelektrarna"
+  },
+  {
+    "fileName": "img1_36.png",
+    "nazivZnaka": "Silos"
+  },
+  {
+    "fileName": "img1_37.png",
+    "nazivZnaka": "Tekoči trak za prenos materiala"
+  },
+  {
+    "fileName": "img1_38.png",
+    "nazivZnaka": "Daljnovod (a-lomni ali markirani steber, b-transformator)"
+  },
+  {
+    "fileName": "img1_39.png",
+    "nazivZnaka": "Daljnovod (a-manjša razdelilan postaja, b-večja razdelilna postaja)"
+  },
+  {
+    "fileName": "img1_40.png",
+    "nazivZnaka": "Vrtina za čršanje nafte/plina (s ali brez stolpa)"
+  },
+  {
+    "fileName": "img1_41.png",
+    "nazivZnaka": "Rezervoar (nafta, bencin, plin)"
+  },
+  {
+    "fileName": "img1_42.png",
+    "nazivZnaka": "Plinarna"
+  },
+  {
+    "fileName": "img1_43.png",
+    "nazivZnaka": "Plinovod (nadzemni ali podzemni)"
+  },
+  {
+    "fileName": "img1_44.png",
+    "nazivZnaka": "Naftovod (nadzemni ali podzemni)"
+  },
+  {
+    "fileName": "img1_45.png",
+    "nazivZnaka": "Žaga"
+  },
+  {
+    "fileName": "img1_46.png",
+    "nazivZnaka": "Rudnik (vrsta rude)"
+  },
+  {
+    "fileName": "img1_47.png",
+    "nazivZnaka": "Opuščen rudnik"
+  },
+  {
+    "fileName": "img1_48.png",
+    "nazivZnaka": "Kop ali kamnolom (kamen, marmor, pesek, gramoz)"
+  },
+  {
+    "fileName": "img1_49.png",
+    "nazivZnaka": "Apnenica"
+  },
+  {
+    "fileName": "img1_51.png",
+    "nazivZnaka": "Enotirna železniška proga"
+  },
+  {
+    "fileName": "img1_52.png",
+    "nazivZnaka": "Dvotirna železniška proga"
+  },
+  {
+    "fileName": "img1_53.png",
+    "nazivZnaka": "Elektrificirana železniška proga"
+  },
+  {
+    "fileName": "img1_54.png",
+    "nazivZnaka": "Železniška proga v gradnji"
+  },
+  {
+    "fileName": "img1_55.png",
+    "nazivZnaka": "Zapuščena železniška proga"
+  },
+  {
+    "fileName": "img1_56.png",
+    "nazivZnaka": "Tramvajska proga"
+  },
+  {
+    "fileName": "img1_57.png",
+    "nazivZnaka": "Žičnica, vzpenjača"
+  },
+  {
+    "fileName": "img1_58.png",
+    "nazivZnaka": "Avtocesta"
+  },
+  {
+    "fileName": "img1_59.png",
+    "nazivZnaka": "Avtocesta z enim izgrajenim voznim pasom"
+  },
+  {
+    "fileName": "img1_60.png",
+    "nazivZnaka": "Hitra cesta"
+  },
+  {
+    "fileName": "img2_1.png",
+    "nazivZnaka": "Utrjena cesta"
+  },
+  {
+    "fileName": "img2_2.png",
+    "nazivZnaka": "Avtocesta v gradnji"
+  },
+  {
+    "fileName": "img2_3.png",
+    "nazivZnaka": "Cesta v gradnji"
+  },
+  {
+    "fileName": "img2_4.png",
+    "nazivZnaka": "Opuščena cesta"
+  },
+  {
+    "fileName": "img2_5.png",
+    "nazivZnaka": "Kolovoz"
+  },
+  {
+    "fileName": "img2_6.png",
+    "nazivZnaka": "Slabši kolovoz"
+  },
+  {
+    "fileName": "img2_7.png",
+    "nazivZnaka": "Širša steza"
+  },
+  {
+    "fileName": "img2_8.png",
+    "nazivZnaka": "Ozka steza, pešpot"
+  },
+  {
+    "fileName": "img2_9.png",
+    "nazivZnaka": "Železniška postaja"
+  },
+  {
+    "fileName": "img2_10.png",
+    "nazivZnaka": "Železniško postajališče"
+  },
+  {
+    "fileName": "img2_11.png",
+    "nazivZnaka": "Most"
+  },
+  {
+    "fileName": "img2_12.png",
+    "nazivZnaka": "Most na stebrih, viadukt"
+  },
+  {
+    "fileName": "img2_13.png",
+    "nazivZnaka": "Most za pešce, viseči most"
+  },
+  {
+    "fileName": "img2_14.png",
+    "nazivZnaka": "Brv"
+  },
+  {
+    "fileName": "img2_15.png",
+    "nazivZnaka": "Prepusti na železniških progah in cestah"
+  },
+  {
+    "fileName": "img2_16.png",
+    "nazivZnaka": "Predor"
+  },
+  {
+    "fileName": "img2_17.png",
+    "nazivZnaka": "Galerija"
+  },
+  {
+    "fileName": "img2_18.png",
+    "nazivZnaka": "Razširitev na cesti, izogibališče"
+  },
+  {
+    "fileName": "img2_19.png",
+    "nazivZnaka": "Zožitev na cesti"
+  },
+  {
+    "fileName": "img2_20.png",
+    "nazivZnaka": "Serpentine (črtice-naklon večji od 10%, pike- zelo oster odsek)"
+  },
+  {
+    "fileName": "img2_21.png",
+    "nazivZnaka": "Zaščitni zid"
+  },
+  {
+    "fileName": "img2_22.png",
+    "nazivZnaka": "Podporni zid"
+  },
+  {
+    "fileName": "img2_23.png",
+    "nazivZnaka": "Večji nasip"
+  },
+  {
+    "fileName": "img2_24.png",
+    "nazivZnaka": "Manjši nasip"
+  },
+  {
+    "fileName": "img2_25.png",
+    "nazivZnaka": "Strm odsek"
+  },
+  {
+    "fileName": "img2_26.png",
+    "nazivZnaka": "Proga ali cesta na nasipu"
+  },
+  {
+    "fileName": "img2_27.png",
+    "nazivZnaka": "Proga ali cesta v useku"
+  },
+  {
+    "fileName": "img2_28.png",
+    "nazivZnaka": "Letališče"
+  },
+  {
+    "fileName": "img2_29.png",
+    "nazivZnaka": "Letališka steza"
+  },
+  {
+    "fileName": "img2_30.png",
+    "nazivZnaka": "Letališki svetilnik"
+  },
+  {
+    "fileName": "img2_32.png",
+    "nazivZnaka": "Osnovna plastnica (E=10m)"
+  },
+  {
+    "fileName": "img2_33.png",
+    "nazivZnaka": "Poudarjena plastnica (z nadmorsko višino)"
+  },
+  {
+    "fileName": "img2_34.png",
+    "nazivZnaka": "Pomožna plastnica na E/2"
+  },
+  {
+    "fileName": "img2_35.png",
+    "nazivZnaka": "Pomožna plastnica na E/4"
+  },
+  {
+    "fileName": "img2_36.png",
+    "nazivZnaka": "Pomožna plastnica na E/8"
+  },
+  {
+    "fileName": "img2_37.png",
+    "nazivZnaka": "Kota (točka na terenu s podano nadmorsko višino)"
+  },
+  {
+    "fileName": "img2_38.png",
+    "nazivZnaka": "Prelaz ali sedlo s podano nadmorsko višino"
+  },
+  {
+    "fileName": "img2_39.png",
+    "nazivZnaka": "Objekti na terenu s podano nadmorsko višino podnožja objekta"
+  },
+  {
+    "fileName": "img2_40.png",
+    "nazivZnaka": "Blagi pregibi terena, ki jih ni možno prikazati s plastnicami"
+  },
+  {
+    "fileName": "img2_41.png",
+    "nazivZnaka": "Padnice na plastnici (označujejo smer nagiba terena)"
+  },
+  {
+    "fileName": "img2_42.png",
+    "nazivZnaka": "Dobro zaznavna vrtača in griček, ki ju ni mogoče prikazati s plastnicami"
+  },
+  {
+    "fileName": "img2_43.png",
+    "nazivZnaka": "Vrtača"
+  },
+  {
+    "fileName": "img2_44.png",
+    "nazivZnaka": "Naravni odsek, stopnja"
+  },
+  {
+    "fileName": "img2_45.png",
+    "nazivZnaka": "Vboklina na pretežno ravninskem terenu z zasekanimi stenami"
+  },
+  {
+    "fileName": "img2_46.png",
+    "nazivZnaka": "Podzemna jama z vodo"
+  },
+  {
+    "fileName": "img2_47.png",
+    "nazivZnaka": "Podzemna jama brez vode"
+  },
+  {
+    "fileName": "img2_48.png",
+    "nazivZnaka": "Manjša jama, brezno"
+  },
+  {
+    "fileName": "img2_49.png",
+    "nazivZnaka": "Suhi rov"
+  },
+  {
+    "fileName": "img2_50.png",
+    "nazivZnaka": "Manjši in večji useki, odkopi in izkopi na zemljišču"
+  },
+  {
+    "fileName": "img2_51.png",
+    "nazivZnaka": "Odlagališče odpadnega materiala"
+  },
+  {
+    "fileName": "img2_52.png",
+    "nazivZnaka": "Kup kamenja"
+  },
+  {
+    "fileName": "img2_53.png",
+    "nazivZnaka": "Terase"
+  },
+  {
+    "fileName": "img2_54.png",
+    "nazivZnaka": "Manjši in večji jarki, hudourniške struge"
+  },
+  {
+    "fileName": "img2_55.png",
+    "nazivZnaka": "Skalnati sloji (pokončni, vodoravni in poševni)"
+  },
+  {
+    "fileName": "img2_56.png",
+    "nazivZnaka": "Kamniti ali zemljski plazovi"
+  },
+  {
+    "fileName": "img2_57.png",
+    "nazivZnaka": "Skalna stena, skok"
+  },
+  {
+    "fileName": "img2_58.png",
+    "nazivZnaka": "Skalnate grebenske oblike"
+  },
+  {
+    "fileName": "img2_59.png",
+    "nazivZnaka": "Stene plazovi ledeniki"
+  },
+  {
+    "fileName": "img3_2.png",
+    "nazivZnaka": "Reka s širino nad 10m"
+  },
+  {
+    "fileName": "img3_3.png",
+    "nazivZnaka": "Reka s širino od 5 do 10m"
+  },
+  {
+    "fileName": "img3_4.png",
+    "nazivZnaka": "Reka ali potok ožja od 5m"
+  },
+  {
+    "fileName": "img3_5.png",
+    "nazivZnaka": "Kanal s širino nad 10m"
+  },
+  {
+    "fileName": "img3_6.png",
+    "nazivZnaka": "Kanal s širino od 5 do 10m"
+  },
+  {
+    "fileName": "img3_7.png",
+    "nazivZnaka": "Kanal ožji od 5m"
+  },
+  {
+    "fileName": "img3_8.png",
+    "nazivZnaka": "Reka ali kanal s širino od 5 do 10m, občasno brez vode"
+  },
+  {
+    "fileName": "img3_9.png",
+    "nazivZnaka": "Potok ali kanal s širino do 5m, občasno brez vode"
+  },
+  {
+    "fileName": "img3_10.png",
+    "nazivZnaka": "Ponikalnica"
+  },
+  {
+    "fileName": "img3_11.png",
+    "nazivZnaka": "Kanal v useku"
+  },
+  {
+    "fileName": "img3_12.png",
+    "nazivZnaka": "Kanal v useku z betonskimi stenami ali kamnitimi ploščami"
+  },
+  {
+    "fileName": "img3_13.png",
+    "nazivZnaka": "Kanal podzemnega sistema za namakanje"
+  },
+  {
+    "fileName": "img3_14.png",
+    "nazivZnaka": "Betonski kanal na zemljišču ali nosilcih"
+  },
+  {
+    "fileName": "img3_15.png",
+    "nazivZnaka": "Kanal z večjimi nasipi"
+  },
+  {
+    "fileName": "img3_16.png",
+    "nazivZnaka": "Kanal z manjšimi nasipi"
+  },
+  {
+    "fileName": "img3_17.png",
+    "nazivZnaka": "Kanal na nasipu"
+  },
+  {
+    "fileName": "img3_18.png",
+    "nazivZnaka": "Sifon, prehod kanalov ali drugih vodotokov pod cesto ali drugim grajenim objektom"
+  },
+  {
+    "fileName": "img3_19.png",
+    "nazivZnaka": "Jezero, mlaka, lokev"
+  },
+  {
+    "fileName": "img3_20.png",
+    "nazivZnaka": "Ribnik z nasipi in zajezjo"
+  },
+  {
+    "fileName": "img3_21.png",
+    "nazivZnaka": "Obala (določena ali nedoločena)"
+  },
+  {
+    "fileName": "img3_22.png",
+    "nazivZnaka": "Peščen breg"
+  },
+  {
+    "fileName": "img3_23.png",
+    "nazivZnaka": "Skalnati breg"
+  },
+  {
+    "fileName": "img3_24.png",
+    "nazivZnaka": "Navpična obala (ob toku, odmaknjena od toka)"
+  },
+  {
+    "fileName": "img3_25.png",
+    "nazivZnaka": "Izpodjeden breg, previs"
+  },
+  {
+    "fileName": "img3_26.png",
+    "nazivZnaka": "Regulirana struga z kamnito ali leseno zaščito"
+  },
+  {
+    "fileName": "img3_27.png",
+    "nazivZnaka": "Obzidan breg"
+  },
+  {
+    "fileName": "img3_28.png",
+    "nazivZnaka": "Strme obale potoka v hribovitem ali planinskem svetu"
+  },
+  {
+    "fileName": "img3_29.png",
+    "nazivZnaka": "Strme obale potoka v ravninskem svetu"
+  },
+  {
+    "fileName": "img3_30.png",
+    "nazivZnaka": "Brod za prevoz vozil"
+  },
+  {
+    "fileName": "img3_31.png",
+    "nazivZnaka": "Brod za prevoz oseb"
+  },
+  {
+    "fileName": "img3_32.png",
+    "nazivZnaka": "Betonska ali kamnita pregrada"
+  },
+  {
+    "fileName": "img3_33.png",
+    "nazivZnaka": "Zemeljska pregrada"
+  },
+  {
+    "fileName": "img3_34.png",
+    "nazivZnaka": "Pregrada iz nanešenega kamenja, protja ali drevja"
+  },
+  {
+    "fileName": "img3_35.png",
+    "nazivZnaka": "Zapornica (a-lesena, b-betonska/kamnita/kovinska)"
+  },
+  {
+    "fileName": "img3_36.png",
+    "nazivZnaka": "Slap na večji, manjši reki"
+  },
+  {
+    "fileName": "img3_37.png",
+    "nazivZnaka": "Kaskada na večji, manjši reki"
+  },
+  {
+    "fileName": "img3_38.png",
+    "nazivZnaka": "Valolom (a-betonski/kamniti, b-leseni)"
+  },
+  {
+    "fileName": "img3_39.png",
+    "nazivZnaka": "Mlin"
+  },
+  {
+    "fileName": "img3_40.png",
+    "nazivZnaka": "Plavajoči mlin"
+  },
+  {
+    "fileName": "img3_41.png",
+    "nazivZnaka": "Otok"
+  },
+  {
+    "fileName": "img3_42.png",
+    "nazivZnaka": "Prod, sipina"
+  },
+  {
+    "fileName": "img3_43.png",
+    "nazivZnaka": "Smer toka"
+  },
+  {
+    "fileName": "img3_44.png",
+    "nazivZnaka": "Močnejši izvir (več kot 10L/min)"
+  },
+  {
+    "fileName": "img3_45.png",
+    "nazivZnaka": "Šibkejši izvir"
+  },
+  {
+    "fileName": "img3_46.png",
+    "nazivZnaka": "Zajetje večje zmogljivosti"
+  },
+  {
+    "fileName": "img3_47.png",
+    "nazivZnaka": "Zajetje manjše zmogljivosti"
+  },
+  {
+    "fileName": "img3_48.png",
+    "nazivZnaka": "Vodnjak"
+  },
+  {
+    "fileName": "img3_49.png",
+    "nazivZnaka": "Vodnjak z izvodom"
+  },
+  {
+    "fileName": "img3_50.png",
+    "nazivZnaka": "Arteški vodnjak"
+  },
+  {
+    "fileName": "img3_51.png",
+    "nazivZnaka": "Cisterna s stalno pitno vodo"
+  },
+  {
+    "fileName": "img3_52.png",
+    "nazivZnaka": "Cisterna z občasno pitno vodo"
+  },
+  {
+    "fileName": "img3_53.png",
+    "nazivZnaka": "Vodohran na stolpu"
+  },
+  {
+    "fileName": "img3_54.png",
+    "nazivZnaka": "Vodni bazen"
+  },
+  {
+    "fileName": "img3_55.png",
+    "nazivZnaka": "Črpalka"
+  },
+  {
+    "fileName": "img3_56.png",
+    "nazivZnaka": "Zbiralnik vode, vodohran"
+  },
+  {
+    "fileName": "img3_57.png",
+    "nazivZnaka": "Vodovod"
+  },
+  {
+    "fileName": "img3_58.png",
+    "nazivZnaka": "Podzemni pokriti kanal za vodo"
+  },
+  {
+    "fileName": "img3_59.png",
+    "nazivZnaka": "Nadzemna cev za vodo"
+  },
+  {
+    "fileName": "img4_2.png",
+    "nazivZnaka": "Peščena obala"
+  },
+  {
+    "fileName": "img4_3.png",
+    "nazivZnaka": "Strma skalnata obala, klif"
+  },
+  {
+    "fileName": "img4_4.png",
+    "nazivZnaka": "Suho dno v času oseke - peščeno"
+  },
+  {
+    "fileName": "img4_5.png",
+    "nazivZnaka": "Čer"
+  },
+  {
+    "fileName": "img4_6.png",
+    "nazivZnaka": "Čer v višini hidrografske ničle"
+  },
+  {
+    "fileName": "img4_7.png",
+    "nazivZnaka": "Stalno potopljena čer, manj kot 5m pod gladino"
+  },
+  {
+    "fileName": "img4_8.png",
+    "nazivZnaka": "Stalno potopljena čer, več kot 5m pod gladino"
+  },
+  {
+    "fileName": "img4_9.png",
+    "nazivZnaka": "Meja nevarnega podvodnega območja"
+  },
+  {
+    "fileName": "img4_10.png",
+    "nazivZnaka": "Privez"
+  },
+  {
+    "fileName": "img4_11.png",
+    "nazivZnaka": "Valobran"
+  },
+  {
+    "fileName": "img4_12.png",
+    "nazivZnaka": "Pomol"
+  },
+  {
+    "fileName": "img4_13.png",
+    "nazivZnaka": "Stebriči za privez na pomolu in v vodi"
+  },
+  {
+    "fileName": "img4_14.png",
+    "nazivZnaka": "Svetilnik"
+  },
+  {
+    "fileName": "img4_15.png",
+    "nazivZnaka": "Svetleča boja"
+  },
+  {
+    "fileName": "img4_16.png",
+    "nazivZnaka": "Stebrič v vodi"
+  },
+  {
+    "fileName": "img4_17.png",
+    "nazivZnaka": "Sidrišče za velike ladje"
+  },
+  {
+    "fileName": "img4_18.png",
+    "nazivZnaka": "Sidrišče za majhne ladje"
+  },
+  {
+    "fileName": "img4_19.png",
+    "nazivZnaka": "Prepovedano sidranje"
+  },
+  {
+    "fileName": "img4_20.png",
+    "nazivZnaka": "Meja prepovedanjega območja polvbe"
+  },
+  {
+    "fileName": "img4_21.png",
+    "nazivZnaka": "Soline"
+  },
+  {
+    "fileName": "img4_22.png",
+    "nazivZnaka": "Globina morja (glede na hidrografsko niščo)"
+  },
+  {
+    "fileName": "img4_23.png",
+    "nazivZnaka": "Izobata globine 2m"
+  },
+  {
+    "fileName": "img4_24.png",
+    "nazivZnaka": "Izobata globine 5m"
+  },
+  {
+    "fileName": "img4_25.png",
+    "nazivZnaka": "Izobata globine 10m"
+  },
+  {
+    "fileName": "img4_26.png",
+    "nazivZnaka": "Izobata globine 20m"
+  },
+  {
+    "fileName": "img4_28.png",
+    "nazivZnaka": "Trigonometrična točka z nadmorsko višino"
+  },
+  {
+    "fileName": "img4_29.png",
+    "nazivZnaka": "Nivelmanska točka, reper z nadmorsko višino"
+  },
+  {
+    "fileName": "img4_30.png",
+    "nazivZnaka": "Cerkev kot trigonometrična točka"
+  },
+  {
+    "fileName": "img4_31.png",
+    "nazivZnaka": "Ljubljana"
+  },
+  {
+    "fileName": "img4_32.png",
+    "nazivZnaka": "Gozd (listnati, iglasti, mešani) (a-določena meja, b-nedoločena meja)"
+  },
+  {
+    "fileName": "img4_33.png",
+    "nazivZnaka": "Gozd s presekami"
+  },
+  {
+    "fileName": "img4_34.png",
+    "nazivZnaka": "Pogozdena površina z maldimi drevesci"
+  },
+  {
+    "fileName": "img4_35.png",
+    "nazivZnaka": "Težko prehodno bodičasto grmovje, makija"
+  },
+  {
+    "fileName": "img4_36.png",
+    "nazivZnaka": "Gozd prikazan s pogojnim znakom"
+  },
+  {
+    "fileName": "img4_37.png",
+    "nazivZnaka": "Ozek gozdni pas"
+  },
+  {
+    "fileName": "img4_38.png",
+    "nazivZnaka": "Gosto grmovje, rušje"
+  },
+  {
+    "fileName": "img4_39.png",
+    "nazivZnaka": "Grmovje različne gostote z določeno in nedoločeno mejo"
+  },
+  {
+    "fileName": "img4_40.png",
+    "nazivZnaka": "Posamezno drevo"
+  },
+  {
+    "fileName": "img4_41.png",
+    "nazivZnaka": "Zelo opazno, daleč vidno drevo"
+  },
+  {
+    "fileName": "img4_42.png",
+    "nazivZnaka": "Skupina dreves"
+  },
+  {
+    "fileName": "img4_43.png",
+    "nazivZnaka": "Drevje v vrsti, drevored"
+  },
+  {
+    "fileName": "img4_44.png",
+    "nazivZnaka": "Park"
+  },
+  {
+    "fileName": "img4_45.png",
+    "nazivZnaka": "Sadovnjak"
+  },
+  {
+    "fileName": "img4_46.png",
+    "nazivZnaka": "Vinograd"
+  },
+  {
+    "fileName": "img4_47.png",
+    "nazivZnaka": "Plantažni vinograd"
+  },
+  {
+    "fileName": "img4_48.png",
+    "nazivZnaka": "Plantažni vinograd 2"
+  },
+  {
+    "fileName": "img4_49.png",
+    "nazivZnaka": "Hmeljišče"
+  },
+  {
+    "fileName": "img4_50.png",
+    "nazivZnaka": "Prehodno močvirje (brez trstičja, s trstičjem)"
+  },
+  {
+    "fileName": "img4_51.png",
+    "nazivZnaka": "Težko prehodno močvirje (brez trstičja, s trstičjem)"
+  },
+  {
+    "fileName": "img4_52.png",
+    "nazivZnaka": "Neprehodno močvirje (brez trstičja, s trstičjem)"
+  },
+  {
+    "fileName": "img4_53.png",
+    "nazivZnaka": "Občasno poplavljeno zemljišče"
+  },
+  {
+    "fileName": "img4_54.png",
+    "nazivZnaka": "Kamnita tla"
+  },
+  {
+    "fileName": "img4_56.png",
+    "nazivZnaka": "Državna meja"
+  },
+  {
+    "fileName": "img4_57.png",
+    "nazivZnaka": "Mejni kamen, mejna tabla"
+  },
+  {
+    "fileName": "img4_58.png",
+    "nazivZnaka": "Zidana ali kamnita ograja, žična ograja"
+  },
+  {
+    "fileName": "img4_59.png",
+    "nazivZnaka": "Plot, lesena ograja ali druga jasno vidna meja"
+  },
+  {
+    "fileName": "img4_60.png",
+    "nazivZnaka": "Živa meja"
+  }
+]
