@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--qv q:id=0 q:key=3sccYCDd1Z0:-->
+<!--qv q:id=1 q:key=z1nvHyEppoI:-->
+<!--qv q:s q:sref=1 q:key=-->
+
+<head>
+  <meta charSet="utf-8" q:head>
+  <title q:head>TOPO vprašanja</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+  
+  <script src="app.js"></script>
+
+  <style>
+    html,
+    body {
+        height: 100%;
+    }
+  </style>
+</head>
+
+<body lang="en">
+  <div class="h-100 d-flex align-items-center justify-content-center">
+    
+    <div class="card" style="width: 18rem;">
+      <img id="ID_img" class="card-img-top" src="..." alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Kateri topografski znak je to?</h5>
+        <div id="addHere">
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <script>
+    node = document.getElementById('addHere');
+    var winID = "-1";
+    $.getJSON("files.json", function(json) {
+      
+      var rand = Math.floor(Math.random() * json.length);
+
+      var dict = []; // create an empty array
+      if(rand == 0){
+        dict.push({
+            key:   'ID_' + 0,
+            value: json[0].nazivZnaka
+        });
+        dict.push({
+            key:   'ID_' + 1,
+            value: json[1].nazivZnaka
+        });
+        dict.push({
+            key:   'ID_' + json.length-1,
+            value: json[json.length-1].nazivZnaka
+        });
+      }
+
+      else if(rand == json.length-1){
+        dict.push({
+            key:   'ID_' + 0,
+            value: json[0].nazivZnaka
+        });
+        dict.push({
+            key:   'ID_' + json.length-1,
+            value: json[json.length-1].nazivZnaka
+        });
+        dict.push({
+            key:   'ID_' + (json.length - 2),
+            value: json[json.length-2].nazivZnaka
+        });
+      }
+
+      else{
+        for (let i = rand - 1; i < (rand + 2); i++) {
+          dict.push({
+              key:   'ID_' + i,
+              value: json[i].nazivZnaka
+          });
+        }
+      }
+
+      var newRand = -1;
+      while(true){
+        newRand = Math.floor(Math.random() * json.length);
+        if(newRand > rand + 4 || newRand < rand - 4){
+          dict.push({
+            key:   'ID_' + newRand,
+            value: json[newRand].nazivZnaka
+          });
+          break;
+        }
+      }
+
+      dict = shuffle(dict);
+      $("#ID_img").attr("src", "./crop/" + json[rand].fileName);
+      
+      //Doda radio gumbe
+      for (let i = 0; i < 4; i++) {
+        var tempID = dict[i].key;
+        var tempValue = dict[i].value;
+        node.insertAdjacentHTML('afterend', '<div id="div_' + tempID + '" class="form-check"><input class="form-check-input" type="radio" name="flexRadioDefault" id="' + tempID + '" onchange="getRating(this)"><label id="label_' + tempID + '" class="form-check-label" for="' + tempID + '">' + tempValue + '</label></div>');
+
+        if(dict[i].value == json[rand].nazivZnaka){
+          winID = dict[i].key
+        }
+      } 
+    });
+    var win = "3";
+
+
+    function getRating(el) {
+      temp = document.getElementById("div_" + el.id);
+      if(el.id.includes(winID)){
+        alert("PRAVILNO!", "naslov");
+        window.location.reload();
+      }
+      else{
+        alert("NAPAČNO...", "naslov");
+      }
+    }
+
+    function shuffle(a) {
+    var j, x, i;
+    for (i = a.length - 1; i > 0; i--) {
+        j = Math.floor(Math.random() * (i + 1));
+        x = a[i];
+        a[i] = a[j];
+        a[j] = x;
+    }
+    return a;
+}
+  </script>
+
+  
+</body>
+
+</html>
